@@ -92,7 +92,7 @@ Technologien: Blender, Camtasia
 
 ## 🤖📧 Projekt 10: Automatischer E-Mail Beantworter "GeniusReply"
 ### Entwicklung eines automatischen E-Mail Beantworters im achtwöchigen Vollzeitmodul "Teamorientiertes Projekt (TOP)" (HS Worms SoSe24, Modul: Projektmanagement und Teamorientiertes Projekt) (Teamprojekt)
-https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/
+https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/  
 Technologien: Python, LLMs, ChromaDB, JavaScript, MySQL, Nodejs, Visual Studio Code
 
   
