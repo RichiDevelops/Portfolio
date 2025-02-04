@@ -28,7 +28,11 @@ Technologien: Kotlin, AndroidStudio, SQLite
 
 ## 🌍 Projekt 3: Website für E-Sportler "dajor25"
 ### Meine allererste entwickelte Website. (HS Worms SoSe22, Modul: Webentwicklung) (Teamprojekt)
-Technologien: HTML, CSS, JS, Visual Studio Code
+Technologien: HTML, CSS, JS, Visual Studio Code  
+  
+![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
+![Game-Categories-Screen von Trinkspiel-App](media/Trinkspiel-App/game_categories.png)  
+![Game-Screen von Trinkspiel-App](media/Trinkspiel-App/game.png)
 
   
 ---
