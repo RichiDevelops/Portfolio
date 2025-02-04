@@ -46,7 +46,7 @@ Technologien: HTML, CSS, JS, Visual Studio Code
 ## 📊🤖 Projekt 4: Machine Learning
 ### Machine Learning Projekt (HS Worms WiSe23/24, Modul: Machine Learning)  
 
-Clustering, Classification, Regression  
+Clustering, Classification, Regression, Deep Learning (Classification Dogs vs Cats)
 Technologien: Jupyter Notebook, Python, Numpy, Tensorflow, pandas, etc.
 
   
