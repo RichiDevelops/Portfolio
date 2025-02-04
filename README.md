@@ -20,7 +20,10 @@ Technologien: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Cod
 ## 🍻 Projekt 2: Trinkspiel-Android-App
 ### Trinkspiel-App für Android (HS Worms SoSe23, Modul: Entwicklung mobiler Anwendungen)
 Technologien: Kotlin, AndroidStudio, SQLite
-
+  
+![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
+![Game-Categories-Screen von Trinkspiel-App](media/Trinkspiel-App/game_categories.png)  
+![Game-Screen von Trinkspiel-App](media/Trinkspiel-App/game.png)
   
 ---
 
@@ -29,10 +32,6 @@ Technologien: Kotlin, AndroidStudio, SQLite
 ## 🌍 Projekt 3: Website für E-Sportler "dajor25"
 ### Meine allererste entwickelte Website. (HS Worms SoSe22, Modul: Webentwicklung) (Teamprojekt)
 Technologien: HTML, CSS, JS, Visual Studio Code  
-  
-![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
-![Game-Categories-Screen von Trinkspiel-App](media/Trinkspiel-App/game_categories.png)  
-![Game-Screen von Trinkspiel-App](media/Trinkspiel-App/game.png)
 
   
 ---
@@ -87,7 +86,12 @@ Technologien: Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), 
 
 ## 📹 Projekt 9: Among-Us in Blender (HS Worms WiSe2022, Modul: 3D-Modellierung)
 ### Among-Us-Blender-Project: 3D-Modellierung and Animation eines Among-Us-Kurzfilms (Teamprojekt)
-Technologien: Blender, Camtasia
+Technologien: Blender, Camtasia  
+
+<video width="640" height="360" controls>
+  <source src="media/Alexa-Skill/AmongUsIncidentFilm.mp4" type="video/mp4">
+  Dein Browser unterstützt dieses Videoformat nicht.
+</video>
 
   
 ---
