@@ -81,7 +81,7 @@ Technologien: Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), 
 
   
 
-## 📹 Projekt 9: Among-Us in Blender (HS Worms WiSe2022, Modul: 3D-Modellierung) (Teamprojekt)
+## 📹 Projekt 9: Among-Us in Blender (HS Worms WiSe2022, Modul: 3D-Modellierung)
 ### Among-Us-Blender-Project: 3D-Modellierung and Animation eines Among-Us-Kurzfilms (Teamprojekt)
 Technologien: Blender, Camtasia
 
