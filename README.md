@@ -1,5 +1,5 @@
 # Portfolio
-Hier sind einige meiner privaten Projekte, die ich in GitHub verwalte. Eine nähere Einsicht in die privaten Projekte und den Code ist nur auf Anfrage möglich.
+Hier sind einige meiner privaten Projekte sowie Hochschulprojekte, die ich in GitHub verwalte. Eine nähere Einsicht in die privaten Projekte und den Code ist nur auf Anfrage möglich.
 
 Die Projekte sind weder in einer zeitlichen Reihenfolge noch nach Wichtigkeit geordnet.
 
