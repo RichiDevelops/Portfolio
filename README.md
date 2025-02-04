@@ -8,7 +8,7 @@ Die Projekte sind weder in einer zeitlichen Reihenfolge noch nach Wichtigkeit ge
 
   
 ## 🌍 Projekt 1: Ordinary-Website
-### Spaß-Projekt, deployte Website für Freunde bzw. E-Sports Team "Ordinary" (Mit Humor nehmen! 😄)
+### Kleines Spaß-Projekt, deployte Website für Freunde bzw. E-Sports Team "Ordinary" (Mit Humor nehmen! 😄) (Noch in Entwicklung)
 https://ordinary.eu.pythonanywhere.com/ordinary/  
 Technologien: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Code
 
