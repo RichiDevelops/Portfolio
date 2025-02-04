@@ -19,7 +19,7 @@ Technologien: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Cod
 
 ## 🍻 Projekt 2: Trinkspiel-Android-App
 ### Trinkspiel-App für Android (HS Worms SoSe23, Modul: Entwicklung mobiler Anwendungen)
-Used Technologies: Kotlin, AndroidStudio, SQLite
+Technologien: Kotlin, AndroidStudio, SQLite
 
   
 ---
