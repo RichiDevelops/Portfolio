@@ -22,9 +22,9 @@ Technologien: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Cod
 Technologien: Kotlin, AndroidStudio, SQLite
   
 ![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
-![Game-Categories-Screen von Trinkspiel-App](media/Trinkspiel-App/game_categories.png)  
-![Game-Screen von Trinkspiel-App](media/Trinkspiel-App/game.png)
   
+Weitere Bilder: [Zur Bilder-Übersicht](media/Trinkspiel-App/)
+
 ---
 
   
