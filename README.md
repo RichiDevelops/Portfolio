@@ -23,7 +23,7 @@ Technologien: Kotlin, AndroidStudio, SQLite
   
 ![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
   
-Weitere Bilder: [Zur Bilder-Übersicht](media/Trinkspiel-App/)
+Weitere Bilder: [Trinkspiel-App-Bilder](media/Trinkspiel-App/)
 
 ---
 
@@ -88,11 +88,7 @@ Technologien: Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), 
 ### Among-Us-Blender-Project: 3D-Modellierung and Animation eines Among-Us-Kurzfilms (Teamprojekt)
 Technologien: Blender, Camtasia  
 
-<video width="640" height="360" controls>
-  <source src="media/Alexa-Skill/AmongUsIncidentFilm.mp4" type="video/mp4">
-  Dein Browser unterstützt dieses Videoformat nicht.
-</video>
-
+Kurzfilm: [Among-Us-Kurzfilm](media/Alexa-Skill/AmongUsIncidentFilm.mp4)
   
 ---
 
