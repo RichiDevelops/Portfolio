@@ -1,4 +1,7 @@
 # Portfolio
+
+Wilkommen!
+
 Hier befinden sich einige meiner privaten Projekte sowie Hochschulprojekte, die ich in GitHub verwalte. Eine nähere Einsicht in die privaten Projekte und den Code ist nur auf Anfrage möglich.
 
 Die Projekte sind weder in einer zeitlichen Reihenfolge noch nach Wichtigkeit geordnet.
