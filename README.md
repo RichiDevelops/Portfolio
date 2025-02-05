@@ -1,6 +1,6 @@
 # Portfolio
 
-Wilkommen!
+Willkommen!
 
 Hier befinden sich einige meiner privaten Projekte sowie Hochschulprojekte, die ich in GitHub verwalte. Eine nähere Einsicht in die privaten Projekte und den Code ist nur auf Anfrage möglich.
 
