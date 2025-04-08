@@ -9,8 +9,24 @@ Die Projekte sind weder in einer zeitlichen Reihenfolge noch nach Wichtigkeit ge
   
 ---
 
-  
-## 🌍 Projekt 1: Ordinary-Website
+
+
+## 📊🤖 Projekt 1: Machine Learning
+### Machine Learning Projekt (HS Worms WiSe23/24, Modul: Machine Learning)  
+
+Clustering, Classification, Regression, Deep Learning (Classification Dogs vs Cats)
+
+![Daten visualisieren](media/Machine%20Learning/1_code_deep_learning.png) 
+![Modell](media/Machine%20Learning/2_code_deep_learning.png) 
+![Prediction](media/Machine%20Learning/5_code_deep_learning.png) 
+
+Technologien: Jupyter Notebook, Python, Numpy, Tensorflow/Keras, pandas, etc.
+
+---
+
+
+
+## 🌍 Projekt 2: Ordinary-Website
 ### Kleines Spaß-Projekt, deployte Website für Freunde bzw. E-Sports Team "Ordinary" (Mit Humor nehmen! 😄) (Noch in Entwicklung)  
 
 https://ordinary.eu.pythonanywhere.com/ordinary/  
@@ -21,7 +37,7 @@ Technologien: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Cod
 
   
 
-## 🍻 Projekt 2: Trinkspiel-Android-App
+## 🍻 Projekt 3: Trinkspiel-Android-App
 ### Trinkspiel-App für Android (HS Worms SoSe23, Modul: Entwicklung mobiler Anwendungen)
   
 ![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
@@ -29,11 +45,12 @@ Technologien: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Cod
 Weitere Bilder: [Trinkspiel-App-Bilder](media/Trinkspiel-App/)  
 Technologien: Kotlin, AndroidStudio, SQLite
 
+
 ---
 
   
 
-## 🌍 Projekt 3: Website für E-Sportler "dajor25"
+## 🌍 Projekt 4: Website für E-Sportler "dajor25"
 ### Meine allererste entwickelte Website (HS Worms SoSe22, Modul: Webentwicklung) (Teamprojekt)  
 
 ![Homepage von Dajor-Website](media/Dajor-Website/homepage.png)  
@@ -41,18 +58,7 @@ Technologien: Kotlin, AndroidStudio, SQLite
 Weitere Bilder: [Dajor-Website-Bilder](media/Dajor-Website/)  
 Technologien: HTML, CSS, JS, Visual Studio Code  
 
-  
----
 
-  
-
-## 📊🤖 Projekt 4: Machine Learning
-### Machine Learning Projekt (HS Worms WiSe23/24, Modul: Machine Learning)  
-
-Clustering, Classification, Regression, Deep Learning (Classification Dogs vs Cats)  
-Technologien: Jupyter Notebook, Python, Numpy, Tensorflow, pandas, etc.
-
-  
 ---
 
   
