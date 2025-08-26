@@ -13,7 +13,7 @@ Die Projekte sind in den Kategorien "Freizeit", "Bachelor" und "Master" untertei
 ## Master
 
 ### 📱🍃 Projekt 1: PlantPal MVP - Pflanzenverwaltungs-App in Flutter
-#### HS Worms SoSe25, Modul: Mobile  Application Frontend & Interaction Design (Teamprojekt: 3) - Note: 1.0
+#### HS Worms SoSe25, Modul: Mobile Application Frontend & Interaction Design (Teamprojekt: 3) - Note: 1.0 & 1.3 
 
 Frontend, Backend, Nutzerzentrierte Konzeption & Design -> "App-Store-Ready"
 
