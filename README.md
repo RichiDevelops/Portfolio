@@ -82,7 +82,7 @@ Anwendung der grundlegendsten Basics in Webentwicklung. Thema: Website für eine
 ![Homepage von Dajor-Website](media/Dajor-Website/homepage.png)  
 
 Weitere Bilder: [Dajor-Website-Bilder](media/Dajor-Website/)  
-Tech-Stack: HTML, CSS, JS, Visual Studio Code  
+Tech-Stack: HTML, CSS, JS 
 
 
 ---
@@ -96,7 +96,7 @@ Entwicklung eines WWM-Alexa-Skills
   
 ![Game-Screen WWM](media/Alexa-Skill/game_screen_500€_frage.png/)  
 Demovideo: [WWM-Demovideo](media/Alexa-Skill/Skill%20Showcase%20WWM.mp4)  
-Tech-Stack: Python, SQLite, Alexa-Skill-Kit, Visual Studio Code
+Tech-Stack: Python, SQLite, Alexa-Skill-Kit
 
   
 ---
@@ -111,7 +111,7 @@ Entwicklung des Spiels "Schiffe Versenken" als Desktopanwendung in PyQT5
 ![Schiffe platzieren](media/Schiffe-Versenken/place_ships_on_board.png/)  
 
 Weitere Bilder: [Schiffe-Versenken-Bilder](media/Schiffe-Versenken/)  
-Tech-Stack: Python, PyQT5, Visual Studio Code
+Tech-Stack: Python, PyQT5
 
   
 ---
@@ -136,7 +136,7 @@ Tech-Stack: C#, WPF (MVVM), Figma, PowerShell
 
 Entwicklung eines Fullstack-WebShops: Frontend & Backend
 
-Tech-Stack: Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), Angular, TailwindCSS, Fontawesome, Jest (Unit-Tests), Visual Studio Code
+Tech-Stack: Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), Angular, TailwindCSS, Fontawesome, Jest (Unit-Tests)
 
   
 ---
@@ -161,7 +161,7 @@ Tech-Stack: Blender, Camtasia
 Entwicklung eines automatischen E-Mail Beantworters im achtwöchigen Vollzeitmodul "Teamorientiertes Projekt (TOP)"
 
 https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/  
-Tech-Stack: Python, LLMs, ChromaDB, JavaScript, MySQL, Nodejs, Visual Studio Code
+Tech-Stack: Python, LLMs, ChromaDB, JavaScript, MySQL, Nodejs
 
   
 
@@ -174,5 +174,5 @@ Tech-Stack: Python, LLMs, ChromaDB, JavaScript, MySQL, Nodejs, Visual Studio Cod
 Kleines Spaß-Projekt, deployte Website für Freunde bzw. E-Sports Team "Ordinary" (Mit Humor nehmen! 😄) (Noch in Entwicklung)
 
 https://ordinary.eu.pythonanywhere.com/ordinary/  
-Tech-Stack: HTML, CSS, JS, Django (Python), SQL (SQLite DB), Visual Studio Code
+Tech-Stack: HTML, CSS, JS, Django (Python), SQLite
 
