@@ -115,7 +115,7 @@ Serving as a general contact person for an AI platform and researched new functi
 
 ---
 
-### 9. 🎛️ Archive-Functionality fo a Excel Project Management Sheet
+### 9. 🎛️ Archive-Functionality for an Excel Project Management Sheet
 **Description/Summary:**  
  Implementation of an archive feature and several minor enhancements for an Excel sheet used by project managers to manage & track ongoing and past projects.  
 **My role:** Developer  
