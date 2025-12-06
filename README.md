@@ -22,7 +22,7 @@ Happy exploring!
 ---
 
 ## Work (student trainee) 
-*Due to confidentiality, work-related content might be kept non-specific*
+*Due to confidentiality, work-related content will be kept non-specific*
 
 ### 1. 👥 Employee Platform on AWS Infrastructure
 **Description/Summary:**  
