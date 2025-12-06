@@ -21,7 +21,8 @@ Happy exploring!
 
 ---
 
-## Work (student trainee) (Due to confidentiality, work-related content might be kept non-specific)
+## Work (student trainee) 
+*Due to confidentiality, work-related content might be kept non-specific*
 
 ### 1. 👥 Employee Platform on AWS Infrastructure
 **Description/Summary:**  
@@ -122,6 +123,8 @@ Serving as a general contact person for an AI platform and researched new functi
 **Tech Stack:** VBA Excel  
 **Timeframe:** 01/2024  
 **Team size:** 1
+
+---
 
 ## University
 
