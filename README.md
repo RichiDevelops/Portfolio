@@ -1,178 +1,264 @@
-# Portfolio
+# Project Portfolio - Richard Ryppa
 
-Willkommen!
+```
+print("Initializing portfolio...")  
+print("Projects loaded.")  
+print("User permissions: read-only")  
+print("Ready for exploration.")
+```
 
-Hier befinden sich einige meiner privaten Projekte sowie Hochschulprojekte, die ich hier auf GitHub zusammentrage. Eine nähere Einsicht in die privaten Projekte und den Code ist nur auf Anfrage möglich.
+Welcome!
 
-Die Projekte sind in den Kategorien "Freizeit", "Bachelor" und "Master" unterteilt, aber weder in einer zeitlichen Reihenfolge noch nach Wichtigkeit geordnet.
+Here I have gathered several projects on which I have worked independently or collaborated. Not all projects are listed, only the most important and comprehensive ones.
+
+This portfolio is intended to demonstrate my ability to work with a broad range of technologies, learn new tools efficiently, and apply them in practical software projects.
+
+The projects are categorized into [Work](#work-disclaimer-due-to-confidentiality-all-work-related-content-is-kept-non-specific), [University](#university),  and [Leisure](#leisure-fun-projects).
+
+My current main tech stack consists of Python for backend and React (Web) / Flutter (Mobile) for frontend development.
+
+Happy exploring! 
 
 ---
 
-<br>
+## Work (student trainee) (Due to confidentiality, work-related content might be kept non-specific)
 
-## Master
+### 1. 👥 Employee Platform on AWS Infrastructure
+**Description/Summary:**  
+Improvement and further development of a platform for complete employee management. React frontend and Python backend (AWS Lambdas).  
+**My role:**  
+Mainly backend development: implementing and deploying new services (Lambdas) as well as making changes to existing ones. This includes deployment, debugging (AWS CloudWatch), bug fixing, secrets management (AWS Secrets Manager), and working with various other AWS services (Aurora/RDS, S3, API Gateway, SNS, SQS, etc.). Additionally, working with Microsoft SharePoint, Azure App Registrations, and the Microsoft Graph API. Minor frontend adjustments related to the corresponding backend services.
 
-### 📱🍃 Projekt 1: PlantPal MVP - Pflanzenverwaltungs-App in Flutter
-#### HS Worms SoSe25, Modul: Mobile Application Frontend & Interaction Design (Teamprojekt: 3) - Note: 1.0
+**Example features I worked on:**
 
-Frontend, Backend, Nutzerzentrierte Konzeption & Design -> "App-Store-Ready"
+- New Short-CVM service
+- New Profile-Image service
+- Significant changes to certification service
+- Minor implementations and changes to various other services
+- Frontend changes for certification service  
+
+**Tech Stack:** AWS (CDK, Lambda, SQS, SNS, Secrets Manager, RDS, S3, API Gateway), Python, React, Microsoft Graph API, Jira, Docker, Git  
+**Timeframe:** 04/2025 - today  
+**Team size:** Dynamic, 5-10   
+
+---
+
+### 2. ⏱️ Azure Scheduled Webscraper
+**Description/Summary:**  
+Development and deployment of an Azure scheduled function for a customer that scrapes information from a website each week and uploads it to the knowledge base of another software via its API.  
+**My role:**  Main Developer, implementing all functionalities   
+**Tech Stack:** Azure, Python, External Application API, Git  
+**Timeframe:** 09/2025  
+**Team size:** 1
+
+---
+
+### 3. 🤖 Azure OpenAI GPT-Realtime Voicebot
+**Description/Summary:**  
+Researching and Development of a simple Voicebot with WebRTC connection, Function Calling, RAG functionality and appending Audio Transcripts as Chat Messages. Evaluating the use for a customer.   
+**My role:**  Main Developer, implementing all functionalities  
+**Tech Stack:** Azure OpenAI Foundry, Azure GPT Realtime API, Azure AI Search, Azure Blob Storage, Python FastAPI, React, Git     
+**Timeframe:** 09/2025 - 11/2025  
+**Team size:** 1
+
+---
+
+
+### 4. 🗓️ Calendar Sync Application
+**Description/Summary:**  
+ Development of a desktop calendar sync application with a GUI for colleagues from another department. The application reads appointments from an Excel file and writes them to the corresponding Outlook calendar.   
+**My role:** Co-Developer, implementing main functionalities, the GUI and delivering it to the colleagues     
+**Tech Stack:**   
+Python (FastAPI), MSAL, Microsoft Graph API, Azure App Registration, PYQT5, Git  
+**Timeframe:** 04/2025-05/2025  
+**Team size:** 2
+
+---
+
+### 5. 🤖 Serving as a contact person for an AI Platform, including documenting it and researching new functionalities
+**Description/Summary:**  
+Serving as a general contact person for an AI platform and researched new functionalities for it, including how to integrate MCP servers via a mcpo-proxy-server into the locally running, fully containerized setup. I am also responsible for maintaining the platform’s documentation on the internal AI SharePoint.  
+**My role:** Developer  
+**Tech Stack:** Python, Docker, Azure, Microsoft Sharepoint, Jira   
+**Timeframe:** 09/2025 - today  
+**Team size:** 1
+
+---
+
+### 6. 📊 Quotation Application
+**Description/Summary:**  
+ Enhancement of a desktop application used for offer calculation. Adding a wide range of new features, including a complete analytics dashboard, additional cost variables (such as margin) and various functional improvements throughout the application.  
+**My role:** Developer  
+**Used Tech Stack:** WinForms (C#), Git  
+**Timeframe:** 02/2023-01/2025  
+**Team size:** One at a time, worked independently
+
+---
+
+### 7. 🎛️ Development of Custom PRTG Sensors
+**Description/Summary:**  
+ Implementation of various Custom PRTG sensors for a customer project for comprehensive system and service monitoring.  
+**My role:** Developer    
+**Tech Stack:** PowerShell, SQL    
+**Timeframe:** 04/2024-01/2025  
+**Team size:** Worked independently with supervision from a colleague 
+
+---
+
+### 8. 🎛️ Energy Management Desktop Application
+**Description/Summary:**  
+ Implementation of WinForms Masks for a Energy Management Desktop Application in a customer project.  
+**My role:** Developer  
+**Tech Stack:** WinForms (C#), SQL, Git  
+**Timeframe:** 09/2023-10/2023  
+**Team size:** Worked independently with supervision from a colleague 
+
+---
+
+### 9. 🎛️ Archive-Functionality fo a Excel Project Management Sheet
+**Description/Summary:**  
+ Implementation of an archive feature and several minor enhancements for an Excel sheet used by project managers to manage & track ongoing and past projects.  
+**My role:** Developer  
+**Tech Stack:** VBA Excel  
+**Timeframe:** 01/2024  
+**Team size:** 1
+
+## University
+
+### 1. 🚗 Schwindibus - Vehicle management and logbook app for private households 
+**Module:** Project: System Development  
+**Description/Summary:**  
+Implementation of a car management cross-platform application in Flutter and GO-Backend with SCRUM.   
+**My role:**  
+(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma, Implementing Screens with backend connection in Flutter.  
+**Example features I worked on:**  
+- API endpoints for user, vehicle and triplog
+- UUIDs for postgres table primary key fields instead of auto-id 
+- Figma Designs   
+- Vehicle list screen in frontend  
+
+**Tech Stack:**  
+ Flutter, Figma, GO Backend with template (https://github.com/vahiiiid/go-rest-api-boilerplate), Postgres, Docker, Git  
+**Degree:** Master  
+**Timeframe:** WiSe25/26  
+**Team size:** 9  
+**Grade:** Ungraded  
+
+### 2. 🍃 PlantPal MVP - Plant Management Mobile App 
+**Modules:** Mobile Application Frontend & Interaction Design  
+**Description/Summary:**  
+ Implementation of a "App Store raedy"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
+ **My role:**  
+ Developer. Implementing Perunual API Interface and screens in flutter with dart using given infrastructure and provided tools/libraries (Riverpod, Dart Mappable, Sembast/Supabase)  
+**Example features I worked on:**
+ - Design of screens in Figma  
+ - User plants collection 
+ - plant search 
+ - plant details 
+ - plant-care details 
+ - adding plants to own collection 
+ - filtering for user plants collection and plant search  
+
+**Tech Stack:**    
+ Flutter (Riverpod (State Management), Dart Mappable, Sembast (Local Database), etc.), Supabase (Backend Auth and Data Sync), Posthog (Analytics and User Behaviour Tracking) Perenual API (https://perenual.com/), Figma, Git  
+**Degree:** Master  
+**Timeframe:** SoSe25  
+**Team size:** 3  
+**Grade:** 1,0  
 
 ![Overview](media/PlantPal/PlantPal_Overview.png) 
-![Home-Screen Empty State (Lightmode)](media/PlantPal/PlantPal_Home_LightMode.png) 
 ![Home-Screen Empty State (Darkmode)](media/PlantPal/PlantPal_Home_DarkMode.png)
-![Home-Screen Filled State](media/PlantPal/PlantPal_OwnPlants_Sorted_By_Location.png)
-![Add-Plants-Screen](media/PlantPal/PlantPal_AddPlants.png)
-![Plant-Details-Screen](media/PlantPal/PlantPal_PlantDetails.png)
 
 
-Tech-Stack: Flutter, Riverpod (State Management), Dart Mappable, Sembast (Local Database), Supabase (Backend Auth and Data Sync), Posthog (Analytics and User Behaviour Tracking), Go Router (Routing), Flutter Local Notifications, Perenual API (https://perenual.com/)
+--- 
 
----
+### 3. 🤖 Multi Class Classification with Deep Learning 
+**Modules:** Applied Concepts of Artificial Intelligence  
+**Description/Summary:**  
+ Plant disease classification with CNNs: Training own neural network models and applying random search parameter tuning, callbacks, data augmentation, transfer learning, fine-tuning, evaluation, etc., to both self-developed models and existing architectures (e.g., ResNet-50).   
+**My role:**  
+Implementing and evaluating everything mentioned in **Description/Summary**.  
+**Tech Stack:**  
+ Jupyter Notebook, Python, Numpy, Tensorflow/Keras, pandas, matplotlib, Git  
+**Degree:** Master  
+**Timeframe:** SoSe25  
+**Team size:** 2  
+**Grade:** 1,7  
 
-### 📊🤖 Projekt 2: Multi Class Classification durch Deep Learning
-#### HS Worms SoSe25, Modul: Konzepte der KI in der Anwendung(Teamprojekt: 2) - Note: 1.7
-
-Klassifikation von Pflanzenkrankheiten: Random Search Parameter Tuning, Callbacks, Data-Augmentation, Transfer-Learning, Finetuning, Evaluation, etc. von selbst entwickelten und vorhandener Modellen (z.B. ResNet-50)
-
-![Evaluierung](media/KI%20Konzepte%20in%20der%20Anwendung/Evaluation_Model_Accuracy.png)
-
-Tech-Stack: Jupyter Notebook, Python, Numpy, Tensorflow/Keras, pandas, matplotlib, etc.
-
----
-
-<br>
-
-## Bachelor
-
-### 📊🤖 Projekt 1: Machine Learning
-#### HS Worms WiSe23/24, Modul: Machine Learning - Note: 2.0 
-
-Clustering, Classification, Regression, Deep Learning (Classification Dogs vs Cats)
-
-![Daten visualisieren](media/Machine%20Learning/1_code_deep_learning.png) 
-![Modell](media/Machine%20Learning/2_code_deep_learning.png) 
-![Prediction](media/Machine%20Learning/5_code_deep_learning.png) 
-
-Tech-Stack: Jupyter Notebook, Python, Numpy, Tensorflow/Keras, pandas, matplotlib, etc.
+![Evaluierung](media/KI%20Konzepte%20in%20der%20Anwendung/Evaluation_Model_Accuracy.png)  
 
 ---
 
+### 4. ⚙️ Bachelor-Thesis 
+**Description/Summary:**  
+Analysis, design, and prototypical implementation of a graphical user interface and functional enhancements for an automation tool used in the installation and configuration of Siemens Opcenter Execution Process.     
+**Tech Stack:**  
+C#, WPF (MVVM), Figma, PowerShell, Git
+**Degree:** Bachelor  
+**Timeframe:** WiSe24/25  
+**Team size:** 1  
+**Grade:** 1,3  
 
+---  
 
-### 📱🍻 Projekt 2: Trinkspiel-Android-App
-#### HS Worms SoSe23, Modul: Entwicklung mobiler Anwendungen - Note: 2.7
-
-Entwicklung einer Basic Mobile-App
-  
-![Home-Screen von Trinkspiel-App](media/Trinkspiel-App/home_screen.png)  
-  
-Weitere Bilder: [Trinkspiel-App-Bilder](media/Trinkspiel-App/)  
-Tech-Stack: Kotlin, AndroidStudio, SQLite
-
-
----
-
-  
-
-### 🌍 Projekt 3: Meine allererste entwickelte Website
-#### HS Worms SoSe22, Modul: Webentwicklung (Teamprojekt: 2) - Note: 3.3
-
-Anwendung der grundlegendsten Basics in Webentwicklung. Thema: Website für einen "Prominenten"
-
-![Homepage von Dajor-Website](media/Dajor-Website/homepage.png)  
-
-Weitere Bilder: [Dajor-Website-Bilder](media/Dajor-Website/)  
-Tech-Stack: HTML, CSS, JS 
-
+### 5. 🤖 Automatic Email Responder "GeniusReply"
+**Module:** Fulltime 8 Week Team-Oriented Project (TOP)  
+**Description/Summary:**  
+ Development of an automatic email responder addon for Thunderbird with SCRUM during the eight-week full-time module "Team-Oriented Project (TOP)". 
+ https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/ 
+ **My role:**  
+ Developer. Researching viable open source LLMs for deploying on our university AI-Server. Researching and implementing ChromaDB for RAG functionality. Support for other backend tasks (e.g. FastAPI-Endpoints).         
+**Tech Stack:**    
+ Python (FastAPI), ChromaDB, JavaScript, Huggingface, MySQL, Nodejs, Angular
+**Degree:** Bachelor  
+**Timeframe:** SoSe24  
+**Team size:** 9  
+**Grade:** not graded  
 
 ---
 
-  
+### 6. 🌍 Full Stack Webshop
+**Module:** Fullstack Web Applications
+**Description/Summary:**  
+ Implementation of a Full Stack Webshop.     
+**My role:**  
+ Implementation of the API Interface. Some frontend.  
+**Tech Stack:**  
+ Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), Angular, TailwindCSS, Fontawesome, Jest (Unit-Tests)   
+**Degree:** Bachelor  
+**Timeframe:** SoSe23  
+**Team size:** 3  
+**Grade:** 2,3  
 
-### 🤖🎤💰 Projekt 4: Wer-Wird-Millionär-Alexa-Skill
-#### HS Worms WiSe22/23, Modul: Digitale Sprachassistenten (Teamprojekt: 3) - Note: 1.0
-
-Entwicklung eines WWM-Alexa-Skills
-  
-![Game-Screen WWM](media/Alexa-Skill/game_screen_500€_frage.png/)  
-Demovideo: [WWM-Demovideo](media/Alexa-Skill/Skill%20Showcase%20WWM.mp4)  
-Tech-Stack: Python, SQLite, Alexa-Skill-Kit
-
-  
 ---
 
-  
+## Leisure (Fun Projects)
 
-### 🎮 Projekt 5: Schiffe Versenken 
-#### HS Worms WiSe22/23, Modul: Programmierung Graphischer Oberflächen (Teamprojekt: 3) - Note: 1.7
+### 1. 🎮 Multiplayer 3D Battle Royal Game with Spells
+**Description/Summary:**  
+ Own Battle Royale Multiplayer Game in Unity. My first game project. Stopped developing since it's just too ambitous to develop and release a whole online battle royal as a solo-dev working on evenings. Nevertheless, I learned a lot about Unity and game development for potential future game projects.   
+**Features:**  
+ 3D World, 2D Map, First Person Character Controller, Action Bar, Collecting Items (e.g. Spells), Using Items, Zone Shrinking, Online Steam Lobby System, Health, Mana & Damaging  
+**Tech Stack:**  
+ Unity (C#), Unity Asset Store, Fishnet, FishySteamworks, Heathen's Steamworks, ProBuilder  
+**Timeframe:** 08/25-11/2025  
+**Team size:** 1
 
-Entwicklung des Spiels "Schiffe Versenken" als Desktopanwendung in PyQT5 
+![alt text](media/Battle-Royale-Game/image.png)
+![alt text](media/Battle-Royale-Game/image-1.png)
 
-![Schiffe platzieren](media/Schiffe-Versenken/place_ships_on_board.png/)  
+### 2. 🌍 Website for Esports Team "Ordinary"
+**Description/Summary:**  
+ Deployed website for friends / the e-sports team “Ordinary” (intended to be **humorous and not adjusted or optimized for all screen resolutions.**).   
+ Another main intention to develop it was to get into Django.   
+ https://ordinary.eu.pythonanywhere.com/ordinary/.   
+**Features:**  
+ Overview of the team, games and news.    
+**Tech Stack:**  
+ HTML, CSS, JS, Django (Python), SQLite   
+**Timeframe:** 3 Days  
+**Team size:** 1
 
-Weitere Bilder: [Schiffe-Versenken-Bilder](media/Schiffe-Versenken/)  
-Tech-Stack: Python, PyQT5
 
-  
----
 
-  
-
-### ✍🏻 Projekt 6: Bachelorarbeit  
-#### HS Worms WiSe24/25 - Note: 1.3 
-
-Analyse, Konzeption und prototypische Implementierung einer grafischen Benutzeroberfläche und funktionaler Erweiterungen für ein Automatisierungstool zur Installation & Konfiguration von Siemens Opcenter Execution Process
-
-Keine Bilder o.ä., weil ein Sperrvermerk vorliegt  
-Tech-Stack: C#, WPF (MVVM), Figma, PowerShell
-
-  
----
-
-  
-
-### 🌍 Projekt 7: Fullstack WebShop
-#### HS Worms SoSe23, Modul: Fullstack Webanwendungen (Teamprojekt: 3) - Note: 2.3
-
-Entwicklung eines Fullstack-WebShops: Frontend & Backend
-
-Tech-Stack: Nodejs, Docker, MariaDB, Express JS (API), Swagger UI (API Docs), Angular, TailwindCSS, Fontawesome, Jest (Unit-Tests)
-
-  
----
-
-  
-
-### 📹 Projekt 8: Among-Us in Blender (HS Worms WiSe2022, Modul: 3D-Modellierung)
-#### HS Worms WiSe22/23 (Teamprojekt: 2) - Note: 1.7
-
-3D-Modellierung and Animation eines Among-Us-Kurzfilms in Blender
-
-Kurzfilm: [Among-Us-Kurzfilm](media/Among-Us/AmongUsIncidentFilm.mp4)  
-Tech-Stack: Blender, Camtasia  
-  
----
-
-  
-
-### 🤖📧 Projekt 9: Automatischer E-Mail Beantworter "GeniusReply"
-#### HS Worms SoSe24, Modul: Projektmanagement und Teamorientiertes Projekt (Teamprojekt: 7) - Unbenotet 
-
-Entwicklung eines automatischen E-Mail Beantworters im achtwöchigen Vollzeitmodul "Teamorientiertes Projekt (TOP)"
-
-https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/  
-Tech-Stack: Python, LLMs, ChromaDB, JavaScript, MySQL, Nodejs
-
-  
-
-<br>
-
-## Freizeit
-
-### 🌍 Projekt 1: Ordinary-Website
-
-Kleines Spaß-Projekt, deployte Website für Freunde bzw. E-Sports Team "Ordinary" (Mit Humor nehmen! 😄) (Noch in Entwicklung)
-
-https://ordinary.eu.pythonanywhere.com/ordinary/  
-Tech-Stack: HTML, CSS, JS, Django (Python), SQLite
 
