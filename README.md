@@ -208,7 +208,7 @@ C#, WPF (MVVM), Figma, PowerShell, Git
 **Module:** Fulltime 8 Week Team-Oriented Project (TOP)  
 **Description/Summary:**  
  Development of an automatic email responder addon for Thunderbird with SCRUM during the eight-week full-time module "Team-Oriented Project (TOP)". 
- https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/ 
+ https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/  
  **My role:**  
  Developer. Researching viable open source LLMs for deploying on our university AI-Server. Researching and implementing ChromaDB for RAG functionality. Support for other backend tasks (e.g. FastAPI-Endpoints).         
 **Tech Stack:**    
