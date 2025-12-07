@@ -133,7 +133,7 @@ Serving as a general contact person for an AI platform and researched new functi
 **Description/Summary:**  
 Implementation of a car management cross-platform application in Flutter and GO-Backend with SCRUM.   
 **My role:**  
-(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma. Implementing Screens with backend connection in Flutter. 
+(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma. Implementing Screens with backend connection in Flutter.   
 **Example features I worked on:**  
 - API endpoints for user, vehicle and triplog
 - UUIDs for postgres table primary key fields instead of auto-id 
