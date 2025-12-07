@@ -128,7 +128,7 @@ Serving as a general contact person for an AI platform and researched new functi
 
 ## University
 
-### 1. 🚗 Schwindibus - Vehicle management and logbook app for private households 
+### 1. 🚗 Schwindibus - Vehicle management and logbook mobile app for private households 
 **Module:** Project: System Development  
 **Description/Summary:**  
 Implementation of a car management cross-platform application in Flutter and GO-Backend with SCRUM.   
@@ -147,7 +147,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
 **Team size:** 9  
 **Grade:** Ungraded  
 
-### 2. 🍃 PlantPal MVP - Plant Management Mobile App 
+### 2. 🍃 PlantPal MVP - Plant management mobile mpp 
 **Modules:** Mobile Application Frontend & Interaction Design  
 **Description/Summary:**  
  Implementation of a "App Store raedy"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
