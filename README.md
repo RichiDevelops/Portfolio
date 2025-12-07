@@ -47,7 +47,7 @@ Mainly backend development: implementing and deploying new services (Lambdas) as
 ### 2. ⏱️ Azure Scheduled Webscraper
 **Description/Summary:**  
 Development and deployment of an Azure scheduled function for a customer that scrapes information from a website each week and uploads it to the knowledge base of another software via its API.  
-**My role:**  Main Developer, implementing all functionalities   
+**My role:**  Main Developer, implementing all functionalities.  
 **Tech Stack:** Azure, Python, External Application API, Git  
 **Timeframe:** 09/2025  
 **Team size:** 1
@@ -56,8 +56,8 @@ Development and deployment of an Azure scheduled function for a customer that sc
 
 ### 3. 🤖 Azure OpenAI GPT-Realtime Voicebot
 **Description/Summary:**  
-Researching and Development of a simple Voicebot with WebRTC connection, Function Calling, RAG functionality and appending Audio Transcripts as Chat Messages. Evaluating the use for a customer.   
-**My role:**  Main Developer, implementing all functionalities  
+Research and development of a simple voice bot with WebRTC connection, fuction calling, RAG functionality and displaying audio transcripts as chat messages. Also evaluating the use for a customer.   
+**My role:**  Main Developer, implementing all functionalities.  
 **Tech Stack:** Azure OpenAI Foundry, Azure GPT Realtime API, Azure AI Search, Azure Blob Storage, Python FastAPI, React, Git     
 **Timeframe:** 09/2025 - 11/2025  
 **Team size:** 1
@@ -68,7 +68,7 @@ Researching and Development of a simple Voicebot with WebRTC connection, Functio
 ### 4. 🗓️ Calendar Sync Application
 **Description/Summary:**  
  Development of a desktop calendar sync application with a GUI for colleagues from another department. The application reads appointments from an Excel file and writes them to the corresponding Outlook calendar.   
-**My role:** Co-Developer, implementing main functionalities, the GUI and delivering it to the colleagues     
+**My role:** Co-Developer, implementing main functionalities, the GUI and delivering it to the colleagues.     
 **Tech Stack:**   
 Python (FastAPI), MSAL, Microsoft Graph API, Azure App Registration, PYQT5, Git  
 **Timeframe:** 04/2025-05/2025  
@@ -92,7 +92,7 @@ Serving as a general contact person for an AI platform and researched new functi
 **My role:** Developer  
 **Used Tech Stack:** WinForms (C#), Git  
 **Timeframe:** 02/2023-01/2025  
-**Team size:** One at a time, worked independently
+**Team size:** I worked independently with occasional update meetings with one of our project managers
 
 ---
 
@@ -102,7 +102,7 @@ Serving as a general contact person for an AI platform and researched new functi
 **My role:** Developer    
 **Tech Stack:** PowerShell, SQL    
 **Timeframe:** 04/2024-01/2025  
-**Team size:** Worked independently with supervision from a colleague 
+**Team size:** I worked independently with supervision from a colleague 
 
 ---
 
@@ -112,7 +112,7 @@ Serving as a general contact person for an AI platform and researched new functi
 **My role:** Developer  
 **Tech Stack:** WinForms (C#), SQL, Git  
 **Timeframe:** 09/2023-10/2023  
-**Team size:** Worked independently with supervision from a colleague 
+**Team size:** I worked independently with supervision from a colleague 
 
 ---
 
@@ -133,7 +133,7 @@ Serving as a general contact person for an AI platform and researched new functi
 **Description/Summary:**  
 Implementation of a car management cross-platform application in Flutter and GO-Backend with SCRUM.   
 **My role:**  
-(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma, Implementing Screens with backend connection in Flutter.  
+(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma. Implementing Screens with backend connection in Flutter. 
 **Example features I worked on:**  
 - API endpoints for user, vehicle and triplog
 - UUIDs for postgres table primary key fields instead of auto-id 
@@ -152,7 +152,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
 **Description/Summary:**  
  Implementation of a "App Store raedy"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
  **My role:**  
- Developer. Implementing Perunual API Interface and screens in flutter with dart using given infrastructure and provided tools/libraries (Riverpod, Dart Mappable, Sembast/Supabase)  
+ Developer. Implementing Perunual API Interface and screens in flutter with dart using given infrastructure and provided tools/libraries (Riverpod, Dart Mappable, Sembast/Supabase).  
 **Example features I worked on:**
  - Design of screens in Figma  
  - User plants collection 
