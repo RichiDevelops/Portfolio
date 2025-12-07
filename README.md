@@ -71,7 +71,7 @@ Research and development of a simple voice bot with WebRTC connection, fuction c
 **My role:** Co-Developer, implementing main functionalities, the GUI and delivering it to the colleagues.     
 **Tech Stack:**   
 Python (FastAPI), MSAL, Microsoft Graph API, Azure App Registration, PYQT5, Git  
-**Timeframe:** 04/2025-05/2025  
+**Timeframe:** 04/2025 - 05/2025  
 **Team size:** 2
 
 ---
@@ -91,7 +91,7 @@ Serving as a general contact person for an AI platform and researched new functi
  Enhancement of a desktop application used for offer calculation. Adding a wide range of new features, including a complete analytics dashboard, additional cost variables (such as margin) and various functional improvements throughout the application.  
 **My role:** Developer  
 **Tech Stack:** WinForms (C#), Git  
-**Timeframe:** 02/2023-01/2025  
+**Timeframe:** 02/2023 - 01/2025  
 **Team size:** I worked independently with occasional update meetings with one of our project managers
 
 ---
@@ -101,7 +101,7 @@ Serving as a general contact person for an AI platform and researched new functi
  Implementation of various Custom PRTG sensors for a customer project for comprehensive system and service monitoring.  
 **My role:** Developer    
 **Tech Stack:** PowerShell, SQL    
-**Timeframe:** 04/2024-01/2025  
+**Timeframe:** 04/2024 - 01/2025  
 **Team size:** I worked independently with supervision from a colleague 
 
 ---
@@ -111,7 +111,7 @@ Serving as a general contact person for an AI platform and researched new functi
  Implementation of WinForms Masks for a Energy Management Desktop Application in a customer project.  
 **My role:** Developer  
 **Tech Stack:** WinForms (C#), SQL, Git  
-**Timeframe:** 09/2023-10/2023  
+**Timeframe:** 09/2023 - 10/2023  
 **Team size:** I worked independently with supervision from a colleague 
 
 ---
@@ -244,7 +244,7 @@ C#, WPF (MVVM), Figma, PowerShell, Git
  3D World, 2D Map, First Person Character Controller, Action Bar, Collecting Items (e.g. Spells), Using Items, Zone Shrinking, Online Steam Lobby System, Health, Mana & Damaging  
 **Tech Stack:**  
  Unity (C#), Unity Asset Store, Fishnet, FishySteamworks, Heathen's Steamworks, ProBuilder  
-**Timeframe:** 08/25-11/2025  
+**Timeframe:** 08/25 - 11/25  
 **Team size:** 1
 
 ![alt text](media/Battle-Royale-Game/image.png)
