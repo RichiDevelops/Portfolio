@@ -90,7 +90,7 @@ Serving as a general contact person for an AI platform and researched new functi
 **Description/Summary:**  
  Enhancement of a desktop application used for offer calculation. Adding a wide range of new features, including a complete analytics dashboard, additional cost variables (such as margin) and various functional improvements throughout the application.  
 **My role:** Developer  
-**Used Tech Stack:** WinForms (C#), Git  
+**Tech Stack:** WinForms (C#), Git  
 **Timeframe:** 02/2023-01/2025  
 **Team size:** I worked independently with occasional update meetings with one of our project managers
 
