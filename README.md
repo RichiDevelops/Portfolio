@@ -147,7 +147,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
 **Team size:** 9  
 **Grade:** Ungraded  
 
-### 2. 🍃 PlantPal MVP - Plant management mobile mpp 
+### 2. 🍃 PlantPal MVP - Plant management mobile app 
 **Modules:** Mobile Application Frontend & Interaction Design  
 **Description/Summary:**  
  Implementation of a "App Store raedy"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
