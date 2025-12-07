@@ -221,7 +221,7 @@ C#, WPF (MVVM), Figma, PowerShell, Git
 ---
 
 ### 6. 🌍 Full Stack Webshop
-**Module:** Fullstack Web Applications
+**Module:** Fullstack Web Applications  
 **Description/Summary:**  
  Implementation of a Full Stack Webshop.     
 **My role:**  
