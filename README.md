@@ -37,8 +37,9 @@ Mainly backend development: implementing and deploying new services (Lambdas) as
 - Significant changes to certification service
 - Minor implementations and changes to various other services
 - Frontend changes for certification service  
+- Setting up a backup vault & backup plan via CloudFormation  
 
-**Tech Stack:** AWS (CDK, Lambda, SQS, SNS, Secrets Manager, RDS, S3, API Gateway), Python, React, Microsoft Graph API, Jira, Docker, Git  
+**Tech Stack:** AWS (CDK, Lambda, SQS, SNS, Secrets Manager, RDS, S3, API Gateway, CloudWatch, CloudFormation), Python, React, Microsoft Graph API, Jira, Docker, Git  
 **Timeframe:** 04.2025 - today  
 **Team size:** Dynamic, 5-10   
 
@@ -150,7 +151,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
 ### 2. 🍃 PlantPal MVP - Plant management mobile app 
 **Modules:** Mobile Application Frontend & Interaction Design  
 **Description/Summary:**  
- Implementation of a "App Store raedy"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
+ Implementation of a "App Store ready"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
  **My role:**  
  Developer. Implementing Perunual API Interface and screens in flutter with dart using given infrastructure and provided tools/libraries (Riverpod, Dart Mappable, Sembast/Supabase).  
 **Example features I worked on:**
