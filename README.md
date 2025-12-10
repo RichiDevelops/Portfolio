@@ -1,4 +1,4 @@
-# Project Portfolio - Richard Ryppa
+# Project Portfolio - Richard Ryppa - Last Update: 11th December 2025
 
 ```
 print("Initializing portfolio...")  
@@ -197,7 +197,7 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
 **Description/Summary:**  
 Analysis, design, and prototypical implementation of a graphical user interface and functional enhancements for an automation tool used in the installation and configuration of Siemens Opcenter Execution Process.     
 **Tech Stack:**  
-C#, WPF (MVVM), Figma, PowerShell, Git
+C#, WPF (MVVM), Figma, PowerShell, Git  
 **Degree:** Bachelor  
 **Timeframe:** WiSe24/25  
 **Team size:** 1  
