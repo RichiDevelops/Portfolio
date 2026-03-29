@@ -1,4 +1,4 @@
-# Project Portfolio - Richard Ryppa - Last Update: 11th December 2025
+# Project Portfolio - Richard Ryppa - Last Update: 29th March 2026
 
 ```
 print("Initializing portfolio...")  
@@ -11,35 +11,47 @@ Welcome!
 
 Here I have gathered several projects on which I have worked independently or collaborated. Not all projects are listed, only the most important and comprehensive ones.
 
-This portfolio is intended to demonstrate my ability to work with a broad range of technologies, learn new tools efficiently, and apply them in practical software projects.
+This portfolio is intended to demonstrate my ability to work with a broad range of technologies, learn new tools efficiently, and apply them in practical software projects.  
+
+My current main tech stack consists of Python for backend and React (Web) / Flutter (Mobile) for frontend development but I've worked with various other technologies aswell.
 
 The projects are categorized into [Work](#work-disclaimer-due-to-confidentiality-all-work-related-content-is-kept-non-specific), [University](#university),  and [Leisure](#leisure-fun-projects).
 
-My current main tech stack consists of Python for backend and React (Web) / Flutter (Mobile) for frontend development.
-
-Happy exploring! 
-
 ---
 
-## Work (student trainee) 
-*Due to confidentiality, work-related content will be kept non-specific*
+## Work (student trainee)  
+*Due to confidentiality, work-related content might be kept non-specific*
+
+### 1. ⚙️ Master-Thesis at Exxeta AG
+**Description/Summary:**  
+Development of an AI-powered web application for the automated identification and assessment of potential candidates for company-specific job profiles.       
+**Tech Stack:**  
+Use of the a Open Source Full-Stack-Template:  
+https://github.com/fastapi/full-stack-fastapi-template  
+**Additional Technologies and Concepts that have been used so far:**  
+pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID  
+**Timeframe:** SoSe26  
+**Team size:** 1  
+**Grade:** Pending, work in progress until September  
+
+---
 
 ### 1. 👥 Employee Platform on AWS Infrastructure
 **Description/Summary:**  
 Improvement and further development of a platform for complete employee management. React frontend and Python backend (AWS Lambdas).  
 **My role:**  
-Mainly backend development: implementing and deploying new services (Lambdas) as well as making changes to existing ones. This includes deployment, debugging (AWS CloudWatch), bug fixing, secrets management (AWS Secrets Manager), and working with various other AWS services (Aurora/RDS, S3, API Gateway, SNS, SQS, etc.). Additionally, working with Microsoft SharePoint, Azure App Registrations, and the Microsoft Graph API. Minor frontend adjustments related to the corresponding backend services.
+Mainly backend development: implementing and deploying new services (Lambdas) as well as making changes to existing ones. This includes deployment as Infrastructure as Code (CloudFormation, AWS CLI), debugging (AWS CloudWatch), bug fixing, secrets management (AWS Secrets Manager), and working with various other AWS services (Aurora/RDS, S3, API Gateway, SNS, SQS, etc.). Additionally, working with Microsoft SharePoint, Azure App Registrations, and the Microsoft Graph API. Minor frontend (React.js) adjustments related to the corresponding backend services (Python).
 
 **Example features I worked on:**
 
-- New Short-CVM service
-- New Profile-Image service
-- Significant changes to certification service
-- Minor implementations and changes to various other services
-- Frontend changes for certification service  
+- New Short-CVM AWS Lambda service  
+- New Profile-Image AWS Lambda service 
+- Significant changes to certification AWS Lambda service   
+- Minor implementations and changes to various other services  
+- Frontend changes for the certification service    
 - Setting up a backup vault & backup plan via CloudFormation  
 
-**Tech Stack:** AWS (CDK, Lambda, SQS, SNS, Secrets Manager, RDS, S3, API Gateway, CloudWatch, CloudFormation), Python, React, Microsoft Graph API, Jira, Docker, Git  
+**Tech Stack:** AWS (CDK, Lambda, SQS, SNS, Secrets Manager, RDS, S3, API Gateway, CloudWatch, CloudFormation), Python, React.js, Microsoft Graph API, Jira, Docker, Git  
 **Timeframe:** 04.2025 - today  
 **Team size:** Dynamic, 5-10   
 
@@ -47,9 +59,9 @@ Mainly backend development: implementing and deploying new services (Lambdas) as
 
 ### 2. ⏱️ Azure Scheduled Webscraper
 **Description/Summary:**  
-Development and deployment of an Azure scheduled function for a customer that scrapes information from a website each week and uploads it to the knowledge base of another software via its API.  
+Development and deployment of an Azure scheduled function for a customer that scrapes information from a website each week and uploads it to the knowledge base of an AI Platform via its API.  
 **My role:**  Main Developer, implementing all functionalities.  
-**Tech Stack:** Azure, Python, External Application API, Git  
+**Tech Stack:** Azure, Python, AI Platform API, Git  
 **Timeframe:** 09.2025  
 **Team size:** 1
 
@@ -77,9 +89,20 @@ Python (FastAPI), MSAL, Microsoft Graph API, Azure App Registration, PYQT5, Git
 
 ---
 
+### 4. ⚙️ Bachelor-Thesis at Process Automation Solutions GmbH
+**Description/Summary:**  
+Analysis, design, and prototypical implementation of a graphical user interface and functional enhancements for an automation tool used in the installation and configuration of Siemens Opcenter Execution Process.     
+**Tech Stack:**  
+C#, WPF (MVVM), Figma, PowerShell, Git  
+**Timeframe:** WiSe24/25  
+**Team size:** 1  
+**Grade:** 1,3  
+
+---
+
 ### 5. 🤖 Serving as a contact person for an AI Platform, including documenting it and researching new functionalities
 **Description/Summary:**  
-Serving as a general contact person for an AI platform and researched new functionalities for it, including how to integrate MCP servers via a mcpo-proxy-server into the locally running, fully containerized setup. I am also responsible for maintaining the platform’s documentation on the internal AI SharePoint.  
+Serving as a general contact person for an AI platform and researched new functionalities for it, including how to integrate MCP servers via a mcpo-proxy-server into the locally running, fully containerized setup. I am also responsible for maintaining the platform’s documentation on the internal AI SharePoint. Last but not least, I explain to colleagues how to access the central API and connect applications to it (e.g., Claude Code) or build custom applications.  
 **My role:** Developer  
 **Tech Stack:** Python, Docker, Azure, Microsoft Sharepoint, Jira   
 **Timeframe:** 09.2025 - today  
@@ -134,12 +157,13 @@ Serving as a general contact person for an AI platform and researched new functi
 **Description/Summary:**  
 Implementation of a car management cross-platform application in Flutter and GO-Backend with SCRUM.   
 **My role:**  
-(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma. Implementing Screens with backend connection in Flutter.   
+(Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma. Implementing Screens with backend connection in Flutter.  
+
 **Example features I worked on:**  
 - API endpoints for user, vehicle and triplog
 - UUIDs for postgres table primary key fields instead of auto-id 
 - Figma Designs   
-- Vehicle list screen in frontend  
+- Vehicle list and Vehicle details screen in frontend  
 
 **Tech Stack:**  
  Flutter, Figma, GO Backend with template (https://github.com/vahiiiid/go-rest-api-boilerplate), Postgres, Docker, Git  
@@ -154,6 +178,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
  Implementation of a "App Store ready"  plant management cross-platform application in Flutter. User centered Design & Conception, Frontend and Backend.     
  **My role:**  
  Developer. Implementing Perunual API Interface and screens in flutter with dart using given infrastructure and provided tools/libraries (Riverpod, Dart Mappable, Sembast/Supabase).  
+
 **Example features I worked on:**
  - Design of screens in Figma  
  - User plants collection 
@@ -164,7 +189,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
  - filtering for user plants collection and plant search  
 
 **Tech Stack:**    
- Flutter (Riverpod (State Management), Dart Mappable, Sembast (Local Database), etc.), Supabase (Backend Auth and Data Sync), Posthog (Analytics and User Behaviour Tracking) Perenual API (https://perenual.com/), Figma, Git  
+ Flutter (Riverpod (State Management), Dart Mappable, Sembast (Local Database), etc.), Supabase (Backend Auth and Data Sync), Posthog (Analytics and User Behaviour Tracking), Perenual API (https://perenual.com/), Figma, Git  
 **Degree:** Master  
 **Timeframe:** SoSe25  
 **Team size:** 3  
@@ -190,18 +215,6 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
 **Grade:** 1,7  
 
 ![Evaluierung](media/KI%20Konzepte%20in%20der%20Anwendung/Evaluation_Model_Accuracy.png)  
-
----
-
-### 4. ⚙️ Bachelor-Thesis 
-**Description/Summary:**  
-Analysis, design, and prototypical implementation of a graphical user interface and functional enhancements for an automation tool used in the installation and configuration of Siemens Opcenter Execution Process.     
-**Tech Stack:**  
-C#, WPF (MVVM), Figma, PowerShell, Git  
-**Degree:** Bachelor  
-**Timeframe:** WiSe24/25  
-**Team size:** 1  
-**Grade:** 1,3  
 
 ---  
 
