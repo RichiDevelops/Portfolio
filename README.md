@@ -155,7 +155,7 @@ Serving as a general contact person for an AI platform and researched new functi
 ### 1. 🚗 Schwindibus - Vehicle management and logbook mobile app for private households 
 **Module:** Project: System Development  
 **Description/Summary:**  
-Implementation of a car management cross-platform application in Flutter and GO-Backend with SCRUM.   
+Implementation of a car management cross-platform application in Flutter and GO-Backend with Scrum.   
 **My role:**  
 (Full-Stack)-Developer. Implementing API-Endpoints & Bugfixes, Design of Navigation Concept & Screens in Figma. Implementing Screens with backend connection in Flutter.  
 
@@ -221,7 +221,7 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
 ### 5. 🤖 Automatic Email Responder "GeniusReply"
 **Module:** Fulltime 8 Week Team-Oriented Project (TOP)  
 **Description/Summary:**  
- Development of an automatic email responder addon for Thunderbird with SCRUM during the eight-week full-time module "Team-Oriented Project (TOP)". 
+ Development of an automatic email responder addon for Thunderbird with Scrum during the eight-week full-time module "Team-Oriented Project (TOP)". 
  https://top.pages.gitlab.rlp.net/24s/pmai/geniusreply/  
  **My role:**  
  Developer. Researching viable open source LLMs for deploying on our university AI-Server. Researching and implementing ChromaDB for RAG functionality. Support for other backend tasks (e.g. FastAPI-Endpoints).         
