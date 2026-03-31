@@ -29,7 +29,7 @@ Development of an AI-powered web application for the automated identification an
 Use of the a Open Source Full-Stack-Template:  
 https://github.com/fastapi/full-stack-fastapi-template  
 **Additional Technologies and Concepts that have been used so far:**  
-pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID  
+pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID, Bruno (Open Source Postman alternative)    
 **Timeframe:** SoSe26  
 **Team size:** 1  
 **Grade:** Pending, work in progress until September  
@@ -166,7 +166,7 @@ Implementation of a car management cross-platform application in Flutter and GO-
 - Vehicle list and Vehicle details screen in frontend  
 
 **Tech Stack:**  
- Flutter, Figma, GO Backend with template (https://github.com/vahiiiid/go-rest-api-boilerplate), Postgres, Docker, Git  
+ Flutter, Figma, GO Backend with template (https://github.com/vahiiiid/go-rest-api-boilerplate), Postgres, Docker, Git, Bruno (Open Source Postman alternative)  
 **Degree:** Master  
 **Timeframe:** WiSe25/26  
 **Team size:** 9  
