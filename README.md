@@ -36,7 +36,7 @@ pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID, Bruno (Open Source Pos
 
 ---
 
-### 1. 👥 Employee Platform on AWS Infrastructure
+### 2. 👥 Employee Platform on AWS Infrastructure
 **Description/Summary:**  
 Improvement and further development of a platform for complete employee management. React frontend and Python backend (AWS Lambdas).  
 **My role:**  
@@ -57,7 +57,7 @@ Mainly backend development: implementing and deploying new services (Lambdas) as
 
 ---
 
-### 2. ⏱️ Azure Scheduled Webscraper
+### 3. ⏱️ Azure Scheduled Webscraper
 **Description/Summary:**  
 Development and deployment of an Azure scheduled function for a customer that scrapes information from a website each week and uploads it to the knowledge base of an AI Platform via its API.  
 **My role:**  Main Developer, implementing all functionalities.  
@@ -67,7 +67,7 @@ Development and deployment of an Azure scheduled function for a customer that sc
 
 ---
 
-### 3. 🤖 Azure OpenAI GPT-Realtime Voicebot
+### 4. 🤖 Azure OpenAI GPT-Realtime Voicebot
 **Description/Summary:**  
 Research and development of a simple voice bot with WebRTC connection, fuction calling, RAG functionality and displaying audio transcripts as chat messages. Also evaluating the use for a customer.   
 **My role:**  Main Developer, implementing all functionalities.  
@@ -78,7 +78,7 @@ Research and development of a simple voice bot with WebRTC connection, fuction c
 ---
 
 
-### 4. 🗓️ Calendar Sync Application
+### 5. 🗓️ Calendar Sync Application
 **Description/Summary:**  
  Development of a desktop calendar sync application with a GUI for colleagues from another department. The application reads appointments from an Excel file and writes them to the corresponding Outlook calendar.   
 **My role:** Co-Developer, implementing main functionalities, the GUI and delivering it to the colleagues.     
@@ -89,7 +89,7 @@ Python (FastAPI), MSAL, Microsoft Graph API, Azure App Registration, PYQT5, Git
 
 ---
 
-### 4. ⚙️ Bachelor-Thesis at Process Automation Solutions GmbH
+### 6. ⚙️ Bachelor-Thesis at Process Automation Solutions GmbH
 **Description/Summary:**  
 Analysis, design, and prototypical implementation of a graphical user interface and functional enhancements for an automation tool used in the installation and configuration of Siemens Opcenter Execution Process.     
 **Tech Stack:**  
@@ -100,7 +100,7 @@ C#, WPF (MVVM), Figma, PowerShell, Git
 
 ---
 
-### 5. 🤖 Serving as a contact person for an AI Platform, including documenting it and researching new functionalities
+### 7. 🤖 Serving as a contact person for an AI Platform, including documenting it and researching new functionalities
 **Description/Summary:**  
 Serving as a general contact person for an AI platform and researched new functionalities for it, including how to integrate MCP servers via a mcpo-proxy-server into the locally running, fully containerized setup. I am also responsible for maintaining the platform’s documentation on the internal AI SharePoint. Last but not least, I explain to colleagues how to access the central API and connect applications to it (e.g., Claude Code) or build custom applications.  
 **My role:** Developer  
@@ -110,7 +110,7 @@ Serving as a general contact person for an AI platform and researched new functi
 
 ---
 
-### 6. 📊 Quotation Application
+### 8. 📊 Quotation Application
 **Description/Summary:**  
  Enhancement of a desktop application used for offer calculation. Adding a wide range of new features, including a complete analytics dashboard, additional cost variables (such as margin) and various functional improvements throughout the application.  
 **My role:** Developer  
@@ -120,7 +120,7 @@ Serving as a general contact person for an AI platform and researched new functi
 
 ---
 
-### 7. 🎛️ Development of Custom PRTG Sensors
+### 9. 🎛️ Development of Custom PRTG Sensors
 **Description/Summary:**  
  Implementation of various Custom PRTG sensors for a customer project for comprehensive system and service monitoring.  
 **My role:** Developer    
@@ -130,7 +130,7 @@ Serving as a general contact person for an AI platform and researched new functi
 
 ---
 
-### 8. 📊 Energy Management Desktop Application
+### 10. 📊 Energy Management Desktop Application
 **Description/Summary:**  
  Implementation of WinForms Masks for a Energy Management Desktop Application in a customer project.  
 **My role:** Developer  
@@ -140,7 +140,7 @@ Serving as a general contact person for an AI platform and researched new functi
 
 ---
 
-### 9. 📃 Archive-Functionality for an Excel Project Management Sheet
+### 11. 📃 Archive-Functionality for an Excel Project Management Sheet
 **Description/Summary:**  
  Implementation of an archive feature and several minor enhancements for an Excel sheet used by project managers to manage & track ongoing and past projects.  
 **My role:** Developer  
@@ -171,6 +171,8 @@ Implementation of a car management cross-platform application in Flutter and GO-
 **Timeframe:** WiSe25/26  
 **Team size:** 9  
 **Grade:** Ungraded  
+
+---
 
 ### 2. 🍃 PlantPal MVP - Plant management mobile app 
 **Modules:** Mobile Application Frontend & Interaction Design  
@@ -218,7 +220,7 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
 
 ---  
 
-### 5. 🤖 Automatic Email Responder "GeniusReply"
+### 4. 🤖 Automatic Email Responder "GeniusReply"
 **Module:** Fulltime 8 Week Team-Oriented Project (TOP)  
 **Description/Summary:**  
  Development of an automatic email responder addon for Thunderbird with Scrum during the eight-week full-time module "Team-Oriented Project (TOP)". 
@@ -234,7 +236,7 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
 
 ---
 
-### 6. 🌍 Full Stack Webshop
+### 5. 🌍 Full Stack Webshop
 **Module:** Fullstack Web Applications  
 **Description/Summary:**  
  Implementation of a Full Stack Webshop.     
@@ -273,7 +275,7 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
  Overview of the team, games and news.    
 **Tech Stack:**  
  HTML, CSS, JS, Django (Python), SQLite   
-**Timeframe:** 3 Days  
+**Timeframe:** A weekend in 2023   
 **Team size:** 1
 
 
