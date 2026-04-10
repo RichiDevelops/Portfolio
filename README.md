@@ -26,7 +26,7 @@ The projects are categorized into [Work](#work-disclaimer-due-to-confidentiality
 **Description/Summary:**  
 Development of an AI-powered web application for the automated identification and assessment of potential candidates for company-specific job profiles.       
 **Tech Stack:**  
-Use of the a Open Source Full-Stack-Template:  
+Use of a Open Source Full-Stack-Template and its technologies:  
 https://github.com/fastapi/full-stack-fastapi-template  
 **Additional Technologies and Concepts that have been used so far:**  
 pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID, Bruno (Open Source Postman alternative)    
