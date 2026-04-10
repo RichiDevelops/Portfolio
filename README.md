@@ -67,7 +67,7 @@ Development and deployment of an Azure scheduled function for a customer that sc
 
 ---
 
-### 4. 🤖 Azure OpenAI GPT-Realtime Voicebot
+### 4. 🤖 Azure OpenAI GPT-Realtime Agent Voicebot
 **Description/Summary:**  
 Research and development of a simple voice bot with WebRTC connection, fuction calling, RAG functionality and displaying audio transcripts as chat messages. Also evaluating the use for a customer.   
 **My role:**  Main Developer, implementing all functionalities.  
