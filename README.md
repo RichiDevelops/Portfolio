@@ -226,7 +226,7 @@ Implementing and evaluating everything mentioned in **Description/Summary**.
  **My role:**  
  Developer. Researching viable open source LLMs for deploying on our university AI-Server. Researching and implementing ChromaDB for RAG functionality. Support for other backend tasks (e.g. FastAPI-Endpoints).         
 **Tech Stack:**    
- Python (FastAPI), ChromaDB, JavaScript, Huggingface, MySQL, Nodejs, Angular
+ Python (FastAPI), ChromaDB, JavaScript, Huggingface, MySQL, Nodejs, Angular  
 **Degree:** Bachelor  
 **Timeframe:** SoSe24  
 **Team size:** 9  
