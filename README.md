@@ -41,13 +41,13 @@ pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID, Bruno (Open Source Pos
 Improvement and further development of a platform for complete employee management. React frontend and Python backend (AWS Lambdas).  
 **My role:**  
 Mainly backend development: 
-- Implementing and deploying new services (Lambdas) as well as making changes to existing ones. 
+- Implementing and deploying new services (Lambdas) as well as making changes to existing ones 
 - This includes deployment as Infrastructure as Code (CloudFormation, AWS CLI) 
 - Debugging (AWS CloudWatch) and bug fixing
 - Secrets management (AWS Secrets Manager)   
 - Working with various other AWS services (Aurora/RDS, S3, API Gateway, SNS, SQS, etc.)
 - Connecting with Microsoft SharePoint through Azure App Registrations and the Microsoft Graph API
-- Minor frontend (React.js) adjustments related to the corresponding backend services (Python).  
+- Minor frontend (React.js) adjustments related to the corresponding backend services (Python)  
 
 **Tech Stack:** AWS (CDK, Lambda, SQS, SNS, Secrets Manager, RDS, S3, API Gateway, CloudWatch, CloudFormation), Python, React.js, Microsoft Graph API, Jira, Docker, Git  
 **Timeframe:** 04.2025 - today  
@@ -59,7 +59,7 @@ Mainly backend development:
 **Description/Summary:**  
 Development and deployment of an Azure scheduled function for a customer that scrapes information from a website each week and uploads it to the knowledge base of an AI Platform via its API.  
 **My role:**  Main Developer, implementing all functionalities.  
-**Tech Stack:** Azure, Python, AI Platform API, Git  
+**Tech Stack:** Azure Fuctions, Python, AI Platform API, Git  
 **Timeframe:** 09.2025  
 **Team size:** 1
 
