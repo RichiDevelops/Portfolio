@@ -29,7 +29,7 @@ Development of an AI-powered web application for the automated identification an
 Use of a Open Source Full-Stack-Template and its technologies:  
 https://github.com/fastapi/full-stack-fastapi-template  
 **Additional Technologies and Concepts that have been used so far:**  
-pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID, Bruno (Open Source Postman alternative)    
+pgvector, OAuth 2.0 with Keycloak and Microsoft Entra ID, Bruno (Open Source Postman alternative), Deploying on Azure VM via Docker Compose and Traefik      
 **Timeframe:** SoSe26  
 **Team size:** 1  
 **Grade:** Pending, work in progress until September  
